@@ -1,0 +1,118 @@
+# ===============================
+
+# Python
+
+# ===============================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+nlpenv/
+ENV/
+.venv/
+
+# ===============================
+
+# Jupyter Notebook
+
+# ===============================
+
+.ipynb_checkpoints/
+
+# ===============================
+
+# Environment variables
+
+# ===============================
+
+.env
+.env.*
+
+# ===============================
+
+# Logs & temp files
+
+# ===============================
+
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# ===============================
+
+# ML / Data Science
+
+# ===============================
+
+# Large datasets
+
+data/
+datasets/
+*.csv
+*.tsv
+*.xlsx
+
+# Model files
+
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+
+# ML experiment tracking
+
+mlruns/
+wandb/
+
+# ===============================
+
+# Flask / Web Apps
+
+# ===============================
+
+instance/
+.webassets-cache/
+
+# ===============================
+
+# Build / Distribution
+
+# ===============================
+
+build/
+dist/
+*.egg-info/
+
+# ===============================
+
+# IDEs / Editors
+
+# ===============================
+
+.vscode/
+.idea/
+
+# ===============================
+
+# OS files
+
+# ===============================
+
+Thumbs.db
+
+# ===============================
+
+# Custom Ignore (your case)
+
+# ===============================
+
+extra/
